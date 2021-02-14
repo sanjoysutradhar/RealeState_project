@@ -1,0 +1,7 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+RSenv
+.idea
+db.sqlite3-journal
